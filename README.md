@@ -33,12 +33,11 @@ pytest
 None
 
 ## Describe any tests that you did not complete, skipped, etc
+None
 
-
-https://github.com/abeershboul/madlib-cli/blob/main/README.md
 
 
 
 ## https://github.com/abeershboul/madlib-cli
 
-None
+
